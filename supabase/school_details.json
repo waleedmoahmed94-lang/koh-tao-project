@@ -1,0 +1,423 @@
+{
+  "Davy Jones' Locker Diving": {
+    "summary": "A long-running PADI 5-Star IDC center in Koh Tao offering both recreational and technical diving, including sidemount and rebreather courses, in groups capped at four divers per instructor.",
+    "courses": [
+      {"name": "Open Water Diver (with accommodation)", "price": "12,000 THB"},
+      {"name": "Open Water Diver", "price": "11,500 THB"},
+      {"name": "Sidemount Diver", "price": "14,000 THB"},
+      {"name": "Divemaster", "price": "46,500 THB"},
+      {"name": "Tech Combo (T40, T45 & T50)", "price": "60,000 THB"},
+      {"name": "Enriched Air (Nitrox)", "price": "7,000 THB"}
+    ],
+    "specialties": ["Technical Diving", "Nitrox", "Wreck Diving", "Night Diving", "Underwater Photography", "Sidemount", "DPV"],
+    "contactPhone": "+66 98 223 2175",
+    "contactEmail": "hello@davyjoneslocker.asia",
+    "socialLinks": {"instagram": "https://instagram.com/djldiving/", "facebook": "https://facebook.com/DJLKohTao"}
+  },
+  "Scuba Birds": {
+    "summary": "A PADI 5-Star IDC dive center on Koh Tao that runs small-group courses from its own two dive boats.",
+    "courses": [
+      {"name": "Discover Scuba Diving", "price": "2,900 THB"},
+      {"name": "Scuba Diver", "price": "7,490 THB"},
+      {"name": "Open Water Diver", "price": "8,990 THB"},
+      {"name": "Advanced Open Water Diver", "price": "8,490 THB"},
+      {"name": "Fun Diving (per dive)", "price": "700 THB"},
+      {"name": "Specialty Courses", "price": "from 4,500 THB"}
+    ],
+    "specialties": ["Nitrox", "Wreck Diving", "Sidemount", "Night Diving", "Underwater Photography", "DPV"],
+    "contactPhone": "+66 99 030 7571"
+  },
+  "Master Divers": {
+    "summary": "A PADI dive center in Mae Haad, Koh Tao operating since 1992, with small groups capped at four divers per instructor.",
+    "contactPhone": "+66 92 618 5637",
+    "contactEmail": "info@master-divers.com",
+    "address": "25/8 Moo 2, Mae Haad, Koh Tao, Ko Pha-ngan, Surat Thani 84360",
+    "socialLinks": {"instagram": "https://instagram.com/masterdiverskohtao/", "facebook": "https://facebook.com/masterdivers"}
+  },
+  "Diverholics": {
+    "summary": "A PADI dive operator on Koh Tao run by a single instructor offering one-on-one, personalized courses from beginner through professional level.",
+    "courses": [
+      {"name": "Discover Scuba Diving", "price": "2,500 THB"},
+      {"name": "Scuba Diver", "price": "8,500 THB"},
+      {"name": "Open Water Diver", "price": "11,000 THB"},
+      {"name": "Adventure Diver", "price": "7,500 THB"},
+      {"name": "Advanced Open Water", "price": "10,000 THB"},
+      {"name": "EFR (CPR/First Aid)", "price": "4,000 THB"},
+      {"name": "Rescue Diver", "price": "10,000 THB"},
+      {"name": "Scuba Refresher", "price": "1,500 THB"},
+      {"name": "Divemaster", "price": "30,000 THB"},
+      {"name": "Fun Diving (per dive, volume discount)", "price": "800-1,000 THB"}
+    ],
+    "specialties": ["Underwater Naturalist", "Peak Performance Buoyancy", "Fish ID", "Self Reliant Diver", "Sidemount Diver", "DPV", "Deep Diver", "Underwater Photography", "Wreck Diving", "Night Diving", "Nitrox", "Underwater Navigation"],
+    "contactPhone": "+66 93 750 5543",
+    "contactEmail": "steve@diverholics.com",
+    "openingHours": "8:30 AM - 6:00 PM daily",
+    "socialLinks": {"instagram": "https://instagram.com/diverholics"}
+  },
+  "Below Zero Divers": {
+    "summary": "A Dutch-run PADI dive school based near Mae Haad pier on Koh Tao offering instruction in Dutch as well as English.",
+    "specialties": ["Nitrox", "Deep Diving", "Wreck Diving"],
+    "socialLinks": {"instagram": "https://instagram.com/belowzerodivers/"}
+  },
+  "Nitro Dive Center": {
+    "summary": "A dive center at Koh Tao's main port teaching small groups of two to four students per instructor in English and Spanish.",
+    "specialties": ["Nitrox"],
+    "contactPhone": "+66 92 780 0592",
+    "contactEmail": "divecenter@nitrokohtao.com",
+    "address": "8-9/10 Moo 2, Koh Tao, Koh Phangan, Surat Thani 84360",
+    "openingHours": "Monday-Sunday 8:00 AM - 8:00 PM",
+    "socialLinks": {"instagram": "https://instagram.com/nitrokohtao/"}
+  },
+  "Assava Dive Resort": {
+    "summary": "A PADI 5-Star Career Development Centre and beachfront resort in Chalok Baan Kao running the full course range from beginner through instructor level, plus junior and freediving programs.",
+    "courses": [
+      {"name": "Discover Scuba Diving", "price": "2,500 THB"},
+      {"name": "Scuba Diver", "price": "8,500 THB"},
+      {"name": "Open Water Diver", "price": "11,000 THB"},
+      {"name": "Adventure Diver", "price": "7,500 THB"},
+      {"name": "Advanced Open Water", "price": "10,000 THB"},
+      {"name": "Rescue Diver", "price": "11,000 THB"},
+      {"name": "Divemaster", "price": "38,500-41,500 THB"},
+      {"name": "Open Water Instructor", "price": "66,900-68,900 THB"},
+      {"name": "Fun Diving (per dive)", "price": "800 THB"}
+    ],
+    "specialties": ["Wreck Diving", "Nitrox", "Deep Diving", "Night Diving", "Underwater Photography", "Freediving", "Eco Diving"],
+    "contactPhone": "+66 77 456 597",
+    "contactEmail": "info@assavadiveresort.com",
+    "address": "Chalok Baan Kao, Koh Tao, Suratthani 84360, Thailand",
+    "socialLinks": {"instagram": "https://instagram.com/assavadivingkohtao/", "facebook": "https://facebook.com/AssavaDiveResort"}
+  },
+  "Black Turtle Dive": {
+    "summary": "A PADI dive center in Mae Haad with an unusually broad technical-diving and freediving program alongside marine-conservation specialty courses.",
+    "specialties": ["Technical Diving", "Freediving", "Nitrox", "Wreck Diving", "Night Diving", "Sidemount", "Deep Diving"],
+    "socialLinks": {"instagram": "https://instagram.com/blackturtledive", "facebook": "https://facebook.com/blackturtledive"}
+  },
+  "Buddha View Dive Centre": {
+    "summary": "A PADI dive center in Tanote Bay with an on-site training pool and air-conditioned classrooms, attached to its own hostel.",
+    "courses": [
+      {"name": "Open Water Diver (+ 3 nights hostel)", "price": "10,900 THB"}
+    ],
+    "specialties": ["Wreck Diving", "Deep Diving", "Nitrox", "Underwater Photography", "Sidemount"],
+    "contactPhone": "+66 77 456 489",
+    "contactEmail": "info@buddhaviewdivecentre.com",
+    "address": "53 Moo 3, Koh Tao, Suratthani 84360, Thailand",
+    "socialLinks": {"instagram": "https://instagram.com/buddhaviewdivecentre", "facebook": "https://facebook.com/buddhaviewdivecentre"}
+  },
+  "Deep Dive Center": {
+    "summary": "A PADI dive center based at Koh Tao Montra Resort running small-group instruction in multiple languages with its own training pool and dive boats.",
+    "specialties": ["Deep Diving", "Wreck Diving", "Nitrox", "Freediving"],
+    "contactPhone": "+66 61 178 0298",
+    "contactEmail": "info@deepdivecenterthailand.com",
+    "address": "1/51 Moo 2, Koh Tao, Ko Pha-ngan District, Surat Thani 84360",
+    "socialLinks": {"instagram": "https://instagram.com/deepkohtao", "facebook": "https://facebook.com/deepdivecenterkohtao"}
+  },
+  "Isla Tortuga Divers": {
+    "summary": "A PADI 5-Star IDC center on Koh Tao emphasizing small group ratios and private boat access, with a Spanish-speaking instructor team.",
+    "specialties": ["Deep Diving", "Night Diving", "Nitrox", "Sidemount", "Wreck Diving", "Underwater Navigation"],
+    "contactPhone": "+66 63 039 3082",
+    "address": "7/31 Moo 2, Koh Tao, Surat Thani 84360",
+    "socialLinks": {"instagram": "https://instagram.com/islatortugakohtao", "facebook": "https://facebook.com/islatortugadivers"}
+  },
+  "Nava Scuba Diving": {
+    "summary": "A PADI 5-Star Eco Dive Center in Chalok Baan Kao Bay offering a private dive boat and courses in English, French, German, and Thai, operating since 2018.",
+    "courses": [
+      {"name": "Open Water Course", "price": "3,600-12,000 THB (seasonal)"},
+      {"name": "Eco Open Water Course", "price": "5,970-19,900 THB (seasonal)"},
+      {"name": "Advanced Open Water", "price": "3,300-11,000 THB (seasonal)"},
+      {"name": "Fun Dive Bundle", "price": "5,550-13,680 THB"}
+    ],
+    "specialties": ["Nitrox", "Wreck Diving", "Deep Diving"],
+    "contactPhone": "+66 61 418 4511",
+    "address": "18/25 Moo 3, Koh Tao, Koh Phangan, Surat Thani 84360",
+    "socialLinks": {"instagram": "https://instagram.com/navascubadiving", "facebook": "https://facebook.com/navascubadiving"}
+  },
+  "Pimp My Dive": {
+    "summary": "A PADI 5-Star IDC center about 100 meters from the main Mae Haad pier, running small groups with French-speaking staff and a private boat.",
+    "specialties": ["Freediving"],
+    "contactEmail": "info@pimpmydive.net",
+    "address": "5/2 Moo 2, Koh Tao, Suratthani 84360, Thailand",
+    "socialLinks": {"instagram": "https://instagram.com/pimpmydivekohtao/", "facebook": "https://facebook.com/pimpmydive/", "tripadvisor": "https://tripadvisor.com/Attraction_Review-g303910-d3838077-Reviews-Pimp_My_Dive_Scuba_Dive_Center-Koh_Tao_Surat_Thani_Province.html"}
+  },
+  "Simple Life Divers": {
+    "summary": "A PADI 5-Star Dive Resort on Sairee Beach established in 2003, one of the island's longest-running dive centers, offering the full PADI course curriculum.",
+    "specialties": ["Deep Diving", "Wreck Diving", "Nitrox"],
+    "contactPhone": "+66 77 456 329",
+    "contactEmail": "info@simplelifedivers.com",
+    "address": "3/90 Moo 2, Sairee Beach, Koh Tao, Suratthani 84360, Thailand",
+    "socialLinks": {"instagram": "https://instagram.com/simplelifedivers", "facebook": "https://facebook.com/SimpleLifeDivers"}
+  },
+  "Ban's Diving Resort": {
+    "summary": "A PADI 5-Star CDC resort on Sairee Beach established in 1993, with its own accommodation, pools, and restaurants alongside the dive operation.",
+    "courses": [
+      {"name": "Discover Scuba Diving", "price": "2,500 THB"},
+      {"name": "Scuba Diver", "price": "9,000 THB"},
+      {"name": "Open Water Diver", "price": "11,000 THB"},
+      {"name": "Advanced Open Water Diver", "price": "10,000 THB"},
+      {"name": "EFR", "price": "4,500 THB"},
+      {"name": "Rescue Diver", "price": "11,000 THB"},
+      {"name": "Basic Freediver", "price": "5,900 THB"},
+      {"name": "PADI Freediver", "price": "7,900 THB"},
+      {"name": "Advanced Freediver", "price": "10,900 THB"}
+    ],
+    "specialties": ["Nitrox", "Freediving", "Night Diving", "Wreck Diving"],
+    "contactPhone": "+66 77 456 466",
+    "contactEmail": "info@bansdivingresort.com",
+    "address": "Sairee Beach, Koh Tao, Thailand",
+    "socialLinks": {"instagram": "https://instagram.com/bansdivingresort/", "facebook": "https://facebook.com/bansdivingresort/", "tripadvisor": "https://tripadvisor.com/Hotel_Review-g303910-d594344"}
+  },
+  "Big Bubble": {
+    "summary": "One of Koh Tao's longest-running dive schools, established in 1994, a PADI Five-Star IDC resort offering both scuba and freediving instruction with on-site accommodation.",
+    "specialties": ["Freediving"],
+    "contactPhone": "+66 77 456 669",
+    "socialLinks": {"instagram": "https://instagram.com/bigbubble_diving_kohtao", "facebook": "https://facebook.com/bigbubblekohtao"}
+  },
+  "CV Divers": {
+    "summary": "A boutique PADI dive center on Koh Tao's eastern side at Sai Daeng Bay, teaching small groups directly from the beach rather than a busy pier.",
+    "contactPhone": "+66 800 380 562",
+    "contactEmail": "info@cvdivers.com",
+    "address": "Coral View Resort, Sai Daeng Bay, Koh Tao, Thailand",
+    "openingHours": "8:00 AM - 4:00 PM (office hours)"
+  },
+  "Duck n Dive Koh Tao": {
+    "summary": "A newer PADI dive center on Koh Tao offering courses and trips to both Koh Tao and Koh Nangyuan.",
+    "specialties": ["Nitrox"],
+    "contactPhone": "+66 83 431 8998",
+    "socialLinks": {"instagram": "https://instagram.com/duckndivekohtao", "facebook": "https://facebook.com/duckndivekohtao"}
+  },
+  "Fifty Six Dive": {
+    "summary": "A PADI dive center on Sairee Beach limiting groups to a maximum of four divers and running its own boat for flexible site selection.",
+    "specialties": ["Deep Diving", "Wreck Diving", "Nitrox"],
+    "contactPhone": "+66 92 780 0730",
+    "contactEmail": "info@fiftysixdive.com",
+    "address": "10/4 Moo 1, Sairee Beach, Koh Tao, Surat Thani 84360",
+    "socialLinks": {"instagram": "https://instagram.com/fiftysixdive/", "facebook": "https://facebook.com/fiftysixdive"}
+  },
+  "Ocean Sound Dive + Yoga": {
+    "summary": "A PADI dive school established in 2011 that pairs diving instruction with an on-site yoga studio and staffs only full-time instructors, no trainees.",
+    "courses": [
+      {"name": "Open Water Course", "price": "9,900 THB"}
+    ],
+    "contactPhone": "+66 96 729 1120",
+    "contactEmail": "info@oceansoundkohtao.com",
+    "address": "22/22 Moo 3, Koh Tao, Surat Thani 84360",
+    "socialLinks": {"instagram": "https://www.instagram.com/oceansounddiveyoga/", "tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g303910-d2720965-Reviews-Ocean_Sound_Dive_Yoga-Koh_Tao_Surat_Thani_Province.html"}
+  },
+  "Sairee Cottage Diving": {
+    "summary": "A Thai/Irish-owned PADI dive school directly on Sairee Beach running its own boats and holding a Bauer Pure Air certificate for its compressor.",
+    "specialties": ["Underwater Photography"],
+    "contactPhone": "+66 80 624 3432",
+    "address": "10 Moo 1, Sairee Beach, Koh Tao, ST 84360, Thailand",
+    "socialLinks": {"instagram": "https://instagram.com/saireecottagediving/", "facebook": "https://facebook.com/SaireeCottageDivingKohTao", "tripadvisor": "https://tripadvisor.com/Attraction_Review-g303910-d3418676-Reviews-Sairee_Cottage_Diving"}
+  },
+  "Scuba Shack": {
+    "summary": "A family-run PADI 5-Star IDC center on Sairee Beach, established in 2014, located in front of the O'Chai bungalows and capping groups at four divers per instructor.",
+    "specialties": ["Deep Diving", "Wreck Diving", "Sidemount"],
+    "contactPhone": "+66 84 344 7846",
+    "openingHours": "Open daily",
+    "socialLinks": {"instagram": "https://instagram.com/scubashackkohtao/", "facebook": "https://facebook.com/scubashackkohtao"}
+  },
+  "Siam Scuba Dive Center": {
+    "summary": "A PADI 5-Star dive center on Sairee Beach with an unusually deep specialty-course lineup, from wreck and deep diving to underwater photography/video and DPV.",
+    "courses": [
+      {"name": "Discover Scuba Diving", "price": "2,600-3,600 THB"},
+      {"name": "Open Water Diver", "price": "12,000 THB"},
+      {"name": "Bubble Maker", "price": "3,800 THB"},
+      {"name": "Advanced Open Water", "price": "11,000 THB"},
+      {"name": "Rescue Diver", "price": "11,000 THB"},
+      {"name": "EFR", "price": "5,000 THB"},
+      {"name": "Divemaster", "price": "38,500 THB"},
+      {"name": "Peak Performance Buoyancy", "price": "5,500 THB"},
+      {"name": "Wreck Diving", "price": "9,000 THB"},
+      {"name": "Deep Diving", "price": "9,000 THB"},
+      {"name": "Night Dive", "price": "1,300 THB"},
+      {"name": "Self-Reliant Diver", "price": "13,000 THB"},
+      {"name": "UW Photography & Video", "price": "37,000 THB"}
+    ],
+    "specialties": ["Wreck Diving", "Deep Diving", "Night Diving", "Underwater Photography", "Sidemount", "DPV"],
+    "contactPhone": "+66 82 506 8898",
+    "contactEmail": "info@siamscuba.com",
+    "socialLinks": {"instagram": "https://instagram.com/siamscuba"}
+  },
+  "Koh Tao Scuba Club": {
+    "summary": "A family-operated dive school open since 2014, about 150 meters from the pier, offering instruction in English, Spanish, French, and Thai.",
+    "courses": [
+      {"name": "Try Scuba Diving", "price": "3,000 THB"},
+      {"name": "Open Water Certification", "price": "9,500 THB"},
+      {"name": "Advanced Open Water", "price": "9,000 THB"},
+      {"name": "Fun Dives", "price": "from 900 THB"}
+    ],
+    "contactPhone": "+66 92 761 0824",
+    "contactEmail": "kohtaoscubaclub@gmail.com",
+    "address": "8/21 Moo, Koh Tao, Surat Thani 84360, Thailand",
+    "socialLinks": {"instagram": "https://instagram.com/kohtaoscubaclub/", "facebook": "https://facebook.com/KohtaoScubaclub"}
+  },
+  "Koh Tao Diving Academy": {
+    "summary": "An SSI dive center on Koh Tao offering private charter boat trips for groups of four to ten, alongside standard course training.",
+    "specialties": ["Wreck Diving", "Deep Diving", "Nitrox", "Night Diving", "Sidemount", "Underwater Navigation"],
+    "contactPhone": "+66 84 285 6721",
+    "contactEmail": "contact@kohtaodivingacademy.com",
+    "socialLinks": {"instagram": "https://www.instagram.com/koh_tao_diving_academy/", "facebook": "https://www.facebook.com/profile.php?id=61557611234703"}
+  },
+  "Big Blue Diving": {
+    "summary": "An SSI Diamond Center on Sairee Beach operating since 1991, with its own boats and training pool and an extensive technical and marine-conservation course lineup.",
+    "courses": [
+      {"name": "Basic Scuba Diver", "price": "3,800 THB"},
+      {"name": "Scuba Diver", "price": "10,000 THB"},
+      {"name": "Open Water Diver", "price": "12,000 THB"},
+      {"name": "Open Water and Advanced", "price": "23,000 THB"},
+      {"name": "Open Water to Divemaster", "price": "105,000 THB"},
+      {"name": "Open Water to Instructor", "price": "180,000 THB"}
+    ],
+    "specialties": ["Underwater Photography", "Nitrox", "Deep Diving", "Wreck Diving", "Sidemount", "Technical Diving"],
+    "contactPhone": "+66 77 456 415",
+    "address": "14, Sairee Beach, 148, Koh Tao, Koh Phangan, Surat Thani 84360",
+    "openingHours": "8:00 AM - 7:00 PM daily"
+  },
+  "Chalok Reef Divers": {
+    "summary": "An SSI dive center in Chalok Baan Kao based at Woodlawn Villas Resort, capping groups at four divers per instructor with on-site pool training.",
+    "courses": [
+      {"name": "Open Water Diver", "price": "9,950 THB"},
+      {"name": "Advanced Open Water", "price": "8,950 THB"},
+      {"name": "Dive & Stay Special (OW + hostel)", "price": "10,900 THB"}
+    ],
+    "specialties": ["Nitrox", "Deep Diving", "Night Diving"],
+    "socialLinks": {"instagram": "https://ig.me/m/chalokreefdivers", "facebook": "https://facebook.com/chalokreefdivers"}
+  },
+  "Reef Dive Centre": {
+    "summary": "A PADI dive center at Haad Tien Beach Resort in Shark Bay with a dedicated training pool and two daily dive boats.",
+    "courses": [
+      {"name": "Discover Scuba Diving", "price": "5,500 THB"},
+      {"name": "Open Water Diver", "price": "14,500 THB"},
+      {"name": "Advanced Open Water Diver", "price": "13,500 THB"}
+    ],
+    "contactPhone": "+66 92 256 5882",
+    "address": "19/9 Moo 3, Haad Tien (Shark Bay), Koh Tao, Surat Thani 84360, Thailand",
+    "socialLinks": {"instagram": "https://instagram.com/reefdivecentre_kohtao/", "facebook": "https://facebook.com/reefdivecentre"}
+  },
+  "Koh Tao Divers": {
+    "summary": "An SSI award-winning dive center on Sairee Beach established in 1987, described on its own site as the first dive center on Koh Tao, with an extensive technical and CCR training program.",
+    "courses": [
+      {"name": "Try Scuba Diving", "price": "3,500 THB"},
+      {"name": "Open Water Diver", "price": "10,900 THB"},
+      {"name": "Advanced Open Water Diver", "price": "9,900 THB"}
+    ],
+    "specialties": ["Deep Diving", "Night Diving", "Wreck Diving", "Nitrox", "Technical Diving", "Trimix", "CCR"],
+    "contactEmail": "info@kohtaodivers.com",
+    "socialLinks": {"instagram": "https://instagram.com/kohtaodivers", "facebook": "https://facebook.com/kohtaodivers", "tripadvisor": "https://tripadvisor.com/Attraction_Review-g303910-d2321753-Reviews-Koh_Tao_Divers"}
+  },
+  "AquaTao": {
+    "summary": "An SSI-affiliated dive center on Koh Tao operating since 2012 with a French-speaking team and groups capped at one to four students per instructor.",
+    "specialties": ["Deep Diving", "Nitrox", "Wreck Diving"],
+    "contactPhone": "+66 93 031 8828",
+    "socialLinks": {"instagram": "https://instagram.com/aquatao/", "facebook": "https://facebook.com/AquaTao"}
+  },
+  "Crystal Dive": {
+    "summary": "An SSI Diamond Instructor Training Centre on Koh Tao with over 25 years of operation, running a beachfront resort setup with two dive boats and two training pools.",
+    "specialties": ["Nitrox", "Wreck Diving", "Underwater Photography", "Deep Diving", "Night Diving", "DPV", "Sidemount"],
+    "contactPhone": "+66 77 456 106",
+    "contactEmail": "contact@crystaldive.com",
+    "socialLinks": {"instagram": "https://instagram.com/crystaldivekohtao", "facebook": "https://facebook.com/crystaldivekohtao"}
+  },
+  "New Heaven Dive School": {
+    "summary": "One of Koh Tao's oldest dive schools, established in 1995, known for pioneering the island's first conservation diving program in 2007.",
+    "specialties": ["Freediving"],
+    "contactPhone": "+66 77 457 045",
+    "contactEmail": "info@newheavendiveschool.com",
+    "address": "48 Moo 3, Chalok Baan Kao, Koh Tao, Surat Thani 84360, Thailand",
+    "socialLinks": {"instagram": "https://www.instagram.com/newheavendivingschool", "facebook": "https://www.facebook.com/Newheavendive"}
+  },
+  "Roctopus Dive": {
+    "summary": "A beachfront RAID-affiliated dive center on Sairee Beach running its own coral-restoration and reef-monitoring conservation program.",
+    "contactPhone": "+66 99 470 4566",
+    "contactEmail": "info@roctopusdive.com",
+    "address": "17 Moo 1, Ko Tao, Ko Pha-ngan District, Surat Thani 84360, Thailand",
+    "socialLinks": {"instagram": "https://www.instagram.com/roctopusdive/", "facebook": "https://web.facebook.com/roctopusdive/"}
+  },
+  "New Way Diving": {
+    "summary": "A family-owned SSI dive center on Koh Tao, established in 1999, running two boats with up to five trips a day across more than 25 local dive sites."
+  },
+  "Coral Grand Divers": {
+    "summary": "A National Geographic PADI 5-Star Gold Palm Diver Center on Sairee Beach, a distinction few operators on the island hold.",
+    "contactPhone": "+66 77 456 431",
+    "contactEmail": "info@kohtaocoral.com",
+    "address": "Sairee Beach, Koh Tao, Surat Thani 84280, Thailand",
+    "socialLinks": {"instagram": "https://instagram.com/explore/locations/5170333/koh-tao-coral-grand-resort/", "facebook": "https://facebook.com/kohtaocoralgrandresort", "tripadvisor": "https://tripadvisor.com/Hotel_Review-g303910-d486942-Reviews-Koh_Tao_Coral_Grand_Resort-Koh_Tao_Surat_Thani_Province.html"}
+  },
+  "Echo Divers": {
+    "summary": "An SSI-affiliated dive school in Mae Haad, a few minutes' walk from the main pier, running small-group personalized training.",
+    "specialties": ["Deep Diving", "Wreck Diving", "Nitrox", "Underwater Photography", "Night Diving"],
+    "contactPhone": "+66 96 585 2783",
+    "contactEmail": "contact@echodiverskohtao.com",
+    "socialLinks": {"instagram": "https://instagram.com/echo_divers_kohtao/", "facebook": "https://facebook.com/echo.divers.2024"}
+  },
+  "Mojo Diver": {
+    "summary": "An SSI dive school at the north end of Sairee Beach, operating for over 12 years with its own dive boat and direct beach access.",
+    "contactPhone": "+66 88 562 9978",
+    "contactEmail": "info@mojodiverkohtao.com",
+    "openingHours": "Daily 9:00 AM - 5:00 PM",
+    "socialLinks": {"facebook": "https://www.facebook.com/101686128353394"}
+  },
+  "The Divers Boat": {
+    "summary": "An SSI dive center in Mae Haad operating since 2016 with three boats, English and French instruction, and groups capped at four divers per guide.",
+    "specialties": ["Deep Diving", "Wreck Diving", "Nitrox", "Night Diving", "Underwater Photography"],
+    "contactPhone": "+66 82 814 9282",
+    "contactEmail": "contact@thediversboat.com",
+    "address": "6/10 Moo 2, Mae Haad, Ko Tao, Surat Thani 84360, Thailand",
+    "socialLinks": {"instagram": "https://www.instagram.com/thediversboat/", "facebook": "https://www.facebook.com/thediversboat/"}
+  },
+  "Seashell Divers": {
+    "summary": "An SSI-affiliated dive resort on Sairee Beach focused on three-day certification courses and recreational diving.",
+    "specialties": ["Wreck Diving", "Night Diving"],
+    "contactPhone": "+66 63 535 5586",
+    "contactEmail": "kohtaoseashell@gmail.com",
+    "openingHours": "Daily 9:00 AM - 6:00 PM (GMT+7)",
+    "socialLinks": {"instagram": "https://instagram.com/seashelldivers/", "facebook": "https://facebook.com/SeashellDiversKohTao/"}
+  },
+  "Impian Divers": {
+    "summary": "A Dutch-owned eco-dive school in Mae Haad operating since 2006, offering both IDD and PADI certification tracks with Dutch-speaking instructors.",
+    "courses": [
+      {"name": "Refresher Course", "price": "1,800 THB"},
+      {"name": "Introduction Dive", "price": "2,000 THB"},
+      {"name": "Open Water Course (IDD)", "price": "9,000 THB"},
+      {"name": "Open Water Course (PADI)", "price": "11,000 THB"},
+      {"name": "Advanced Open Water (IDD)", "price": "8,500 THB"},
+      {"name": "Advanced Open Water (PADI)", "price": "10,000 THB"},
+      {"name": "Rescue Diver (IDD)", "price": "10,000 THB"},
+      {"name": "Rescue Diver (PADI)", "price": "12,000 THB"}
+    ],
+    "specialties": ["Deep Diving", "Wreck Diving", "Nitrox", "Full Face Mask"],
+    "contactPhone": "+66 77 456 369",
+    "contactEmail": "booking@impian-divers.com",
+    "address": "Mae Haad, Koh Tao (50m past the 7-Eleven on the main street)",
+    "socialLinks": {"instagram": "https://instagram.com/impiandivers/"}
+  },
+  "Calypso Diving": {
+    "summary": "An SSI-certified, German-run dive school in Tanote Bay operating since 1999 with a house reef accessible directly from shore and a strict four-diver group cap.",
+    "courses": [
+      {"name": "Try Scuba", "price": "2,500 THB"},
+      {"name": "Open Water Diver", "price": "11,900 THB"},
+      {"name": "Advanced Adventurer", "price": "11,000 THB"},
+      {"name": "Fun Dives", "price": "from 800 THB"}
+    ],
+    "contactPhone": "+66 90 328 5990",
+    "contactEmail": "dennis@diving-calypso.de",
+    "address": "Tanote Bay 40/20, Koh Tao, Surat Thani 84360, Thailand",
+    "openingHours": "Monday-Sunday 8:00 AM - 6:00 PM",
+    "socialLinks": {"instagram": "https://instagram.com/calypsodivingkohtao", "facebook": "https://facebook.com/calypsodivingkohtao"}
+  },
+  "Koh Tao Tec Divers": {
+    "summary": "A technical-diving specialist on Koh Tao established in 2006, focused on exploring the Gulf of Thailand's historic wrecks with sidemount and CCR training.",
+    "specialties": ["Technical Diving", "Sidemount", "CCR", "Wreck Diving", "Cave Diving", "Nitrox"],
+    "contactPhone": "+66 95 071 2716",
+    "contactEmail": "info@kohtaotecdivers.com",
+    "socialLinks": {"instagram": "https://instagram.com/kohtaotecdivers/", "facebook": "https://facebook.com/kohtaotecdivers"}
+  },
+  "The Dearly Dive": {
+    "summary": "A PADI 5-Star Dive Resort in Chalok Baan Kao with women-led, LGBTQ+-inclusive staff, on-site pool training, and access to more than 20 dive sites via its own boat.",
+    "specialties": ["Deep Diving", "Wreck Diving", "Underwater Photography"],
+    "contactPhone": "+66 77 332 494",
+    "contactEmail": "info@thedearlykohtaohostel.com",
+    "address": "14/55 Moo 3, Chalok Baan Kao, Koh Tao, Suratthani, Thailand 84360",
+    "socialLinks": {"instagram": "https://instagram.com/thedearlydive", "facebook": "https://facebook.com/thedearlykohtaohostel"}
+  }
+}

@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+:root {
+  --color-bg: #F6F3EC;
+  --color-surface: #FFFFFF;
+  --color-surface-soft: #EFEBDF;
+  --color-ink: #16242B;
+  --color-ink-soft: #4A5C61;
+  --color-ink-faint: #7C8C90;
+  --color-accent: #0F7A82;
+  --color-accent-deep: #0B5459;
+  --color-accent-soft: #E3F0EF;
+  --color-warn: #C1552E;
+  --color-warn-soft: #FBEBE3;
+  --color-line: rgba(22, 36, 43, 0.14);
+  --color-line-soft: rgba(22, 36, 43, 0.08);
+  --color-gold: #C89B3C;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #0E1B22;
+    --color-surface: #142832;
+    --color-surface-soft: #17303B;
+    --color-ink: #EAE6DA;
+    --color-ink-soft: #9FB4B8;
+    --color-ink-faint: #6E8489;
+    --color-accent: #3FB6B0;
+    --color-accent-deep: #7FD8CE;
+    --color-accent-soft: #173231;
+    --color-warn: #E58A61;
+    --color-warn-soft: #2A1F19;
+    --color-line: rgba(234, 230, 218, 0.16);
+    --color-line-soft: rgba(234, 230, 218, 0.09);
+    --color-gold: #E0B85C;
+  }
+}
+
+@theme inline {
+  --color-bg: var(--color-bg);
+  --color-surface: var(--color-surface);
+  --color-surface-soft: var(--color-surface-soft);
+  --color-ink: var(--color-ink);
+  --color-ink-soft: var(--color-ink-soft);
+  --color-ink-faint: var(--color-ink-faint);
+  --color-accent: var(--color-accent);
+  --color-accent-deep: var(--color-accent-deep);
+  --color-accent-soft: var(--color-accent-soft);
+  --color-warn: var(--color-warn);
+  --color-warn-soft: var(--color-warn-soft);
+  --color-line: var(--color-line);
+  --color-line-soft: var(--color-line-soft);
+  --color-gold: var(--color-gold);
+
+  --font-display: ui-serif, Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", "Cascadia Mono", "Segoe UI Mono", Consolas, monospace;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
